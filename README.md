@@ -24,3 +24,4 @@ This Power BI dashboard visualizes $127M+ in global sales data, offering interac
 ---
 
 👋 Feel free to clone, learn from it, or share feedback!
+![Screenshot 2025-04-24 141928](https://github.com/user-attachments/assets/ef1921b0-c95a-4676-9c1e-074e90007925)
